@@ -1,7 +1,3 @@
-if game.CoreGui:FindFirstChild("Shou Hub") then
-    game.CoreGui:FindFirstChild("Shou Hub"):Destroy()
-end
-
 -- venyx ui lib reuploaded by me
 -- init
 local player = game.Players.LocalPlayer
